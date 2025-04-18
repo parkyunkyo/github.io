@@ -7,7 +7,7 @@
 ## 🔗 접속 링크
 
 - 포트폴리오: [https://parkyunkyo.github.io/](https://parkyunkyo.github.io/)
-- 웹 폼 페이지: [https://parkyunkyo.github.io/form.html](https://parkyunkyo.github.io/form.html)
+- 웹 폼 페이지: [https://parkyunkyo.github.io/duksung_diner/form.html](https://parkyunkyo.github.io/duksung_diner/form.html)
 
 ## 📂 주요 구성
 
